@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning to be a professional Web and API Test Automation Engineer 
 - 💞️ I’m looking to collaborate on creating | enhacing an Web Automation suite and/or API Testing suite using Selenium, 
       Specflow, C#, Resharp and Postman as stack with good coding practices.
-      
-- 📫 You can reach me on pasupulc@protonmail.com
 
 <!---
 CAnugula/CAnugula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
